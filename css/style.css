@@ -1,0 +1,14 @@
+
+.sec-1{
+   box-shadow: 1px 1px 15px 10px #2595d2;
+
+} 
+body{height: 100000;}
+.sec-2{
+    background-image: url(../image/nada.jpeg);
+}
+.sec-11{text-shadow: 1px 1px 15px  #0c94de;}
+.sec-4:hover{box-shadow: 1px 1px 15px 10px #2595d2;}
+.sec-5{background-image: url(../image/nadoosh.jpeg);}
+
+.sec-6{background-image: url(../image/Meesage.jpeg);}
